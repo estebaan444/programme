@@ -5,8 +5,7 @@ public class ex1{
 	public static void main (String []args){
 		Scanner kb = new Scanner(System.in);
 		int primer = 'a';
-		int ultim =
-		 'l';
+		int ultim ='l';
  
 		System.out.print("Introduce el caracter: ");
 		char letra = kb.next().charAt(0);
