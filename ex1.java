@@ -7,7 +7,7 @@ public class ex1{
 		int primer = 'a';
 		int ultim ='l';
  
-		System.out.print("Introduce el caracter pero ja: ");
+		System.out.print("Introduce el caracter pero ja  hhh: ");
 		char letra = kb.next().charAt(0);
 		System.out.print("El caracter complementario es: ");
 		int resultado = ultim-letra;
