@@ -10,6 +10,7 @@ public class ex1{
 		System.out.print("Introduce el caracter pero ja  hhh: ");
 		char letra = kb.next().charAt(0);
 		System.out.print("El caracter complementario es: ");
+		System.out.println("Em dic Marc Gutiérrez")
 		int resultado = ultim-letra;
 		System.out.println((char)(primer+resultado));
         kb.close();
